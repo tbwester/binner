@@ -1,0 +1,8 @@
+[package]
+name = "binner"
+version = "0.1.0"
+authors = ["Thomas Wester <thomas_w@live.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.0.0"
