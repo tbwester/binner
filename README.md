@@ -3,7 +3,7 @@
 Example usage:
 
 ```
-# bin the output of seq into bins of with 100
+# bin the output of seq into bins of width 100
 $ seq 1000 | binner -w 100
 50      99
 150     100
